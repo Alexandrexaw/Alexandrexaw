@@ -3,7 +3,6 @@
 
 - ☺️ Pronouns: he/him/his
 - 🎓 I'm Studying Software Engineering at [UniCesumar](https://www.unicesumar.edu.br/home/);
-- 💻 I’m currently learning JAVA and Python language
 
    ##
 
